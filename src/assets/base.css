@@ -10,7 +10,8 @@
 
   --vt-c-indigo: #2c3e50;
   --vt-c-koute: #5E1CC9;
-  --vt-c-panel: #16b1aa;
+  --vt-c-panel: #469ABE;
+  --vt-c-cmd: #2BAC8A;
   --vt-c-kotera: #D62A86;
 
   --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
@@ -49,7 +50,8 @@
     --color-background-mute: var(--vt-c-black-mute);
 
     --vt-c-koute: #ac86e9;
-    --vt-c-panel: #94faf5;
+    --vt-c-panel: #96dfff;
+    --vt-c-cmd: #7affdb;
     --vt-c-kotera: #f571b8;
 
     --color-border: var(--vt-c-divider-dark-2);

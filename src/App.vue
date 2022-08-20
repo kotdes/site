@@ -8,6 +8,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <div class="nav-inner">
         <RouterLink to="/">Koute</RouterLink>
         <RouterLink to="/panel">Panel</RouterLink>
+        <RouterLink to="/cmd">Commander</RouterLink>
       </div>
       <img alt="Kotera logo" class="logo" src="/assets/logo.svg" width="24" height="24" />
     </nav>
