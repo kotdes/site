@@ -5,13 +5,13 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <header>
     <nav>
-      <div class="nav-inner">
+      <div class="nav-inner scroll">
         <RouterLink to="/">Koute</RouterLink>
         <RouterLink to="/panel">Panel</RouterLink>
         <RouterLink to="/cmd">Commander</RouterLink>
         <RouterLink to="/lucide">Lucide</RouterLink>
       </div>
-      <img alt="Kotera logo" class="logo" src="/assets/logo.svg" width="24" height="24" />
+      <img width="24" height="24" class="kotera-logo" />
     </nav>
   </header>
   <RouterView />
@@ -61,4 +61,12 @@ header .nav-inner .router-link-exact-active::after {
   height: 2px;
   background-color: var(--vt-c-kotera)
 }
+
+
+.kotera-logo {
+  mask-image: url(/assets/logo.svg);
+  mask-size: cover;
+  background-color: var(--vt-c-kotera);
+}
+
 </style>
