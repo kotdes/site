@@ -106,6 +106,10 @@ footer .kotera-fullLogo {
   mask-size: auto 32px;
   mask-repeat: no-repeat;
   mask-position: center;
+  -webkit-mask-size: auto 32px;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+
   width: 100%;
   height: 50px;
 }
@@ -113,12 +117,18 @@ footer .kotera-fullLogo {
 .kotera-fullLogo {
   mask-image: url(/assets/fullLogo.svg);
   mask-size: cover;
+  -webkit-mask-image: url(/assets/fullLogo.svg);
+  -webkit-mask-size: cover;
+  
   background-color: var(--vt-c-kotera);
 }
 
 .kotera-logo {
   mask-image: url(/assets/logo.svg);
   mask-size: cover;
+  -webkit-mask-image: url(/assets/logo.svg);
+  -webkit-mask-size: cover;
+  
   background-color: var(--vt-c-kotera);
 }
 </style>
