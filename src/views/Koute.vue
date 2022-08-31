@@ -11,7 +11,7 @@ const cards = ref([
 <template>
   <main>
     <div class="title">
-      <img alt="Koute logo" class="logo" src="/assets/koute/logo.svg" width="36" height="36" />
+      <img alt="Koute logo" class="logo" src="/assets/koute/logo.svg" width="48" height="48"/>
       <p><span style="color: var(--vt-c-koute); font-weight: 600;">Koute.</span> Routing in Fusion supercharged.</p>
     </div>
     <div class="cards">
