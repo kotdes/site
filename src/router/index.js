@@ -17,6 +17,11 @@ const router = createRouter({
       path: '/cmd',
       name: 'Commander',
       component: () => import('../views/Cmd.vue')
+    },
+    {
+      path: '/lucide',
+      name: 'Lucide',
+      component: () => import('../views/Lucide.vue')
     }
   ]
 })
