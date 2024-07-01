@@ -27,7 +27,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  document.title = to.name + " | KoteraHQ";
+  document.title = to.name + " | KoteraDesign";
   next();
 });
 
