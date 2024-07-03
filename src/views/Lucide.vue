@@ -38,9 +38,9 @@ export default {
     </div>
     <p><smaller>
       <br>
-      1. Copyright (MIT) © 2022 KoteraHQ. All rights reserved.<br>
+      1. Copyright (MIT) © 2024 Kotera Design. All rights reserved.<br>
       2. Lucide is trademark and the copyright (ISC) is held by Feather (Cole Bemis 2013-2022) (MIT) and Lucide Contributors 2022.<br>
-      3. KoteraHQ-provided "Lucide Icons Picker" plugin has 0 association with the Lucide project itself or the contributors behind Lucide. This is an unofficial and community-sourced project bringing "Lucide Icons" to Roblox. Any inquiries of the Lucide project (e.g. icon suggestion) should be forwarded to the corresponding maintainer but not KoteraHQ.
+      3. Kotera Design-provided "Lucide Icons Picker" plugin has 0 association with the Lucide project itself or the contributors behind Lucide. This is an unofficial and community-sourced project bringing "Lucide Icons" to Roblox. Any inquiries of the Lucide project (e.g. icon suggestion) should be forwarded to the corresponding maintainer but not Kotera Design.
     </smaller></p>
   </main>
 </template>

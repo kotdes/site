@@ -1,4 +1,4 @@
-# koterahq/site
+# kotdes/site
 
 Repository for holding the source code of [kotera.7kayoh.net](https://kotera.7kayoh.net). Powered by Vue 3 with Vite. Deployed with Vercel.
 
