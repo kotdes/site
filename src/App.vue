@@ -20,7 +20,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="links">
       <a alt="Discord" href="https://discord.gg/JSHRQkrafN"><PhDiscordLogo :size="24" weight="fill" /></a>
       <a alt="GitHub" href="https://github.com/koterahq/"><PhGithubLogo :size="24" weight="fill" /></a>
-      <a alt="GitLab" href="https://gitlab.com/koterahq/"><PhGitlabLogo :size="24" weight="fill" /></a>
+      <a alt="GitLab" href="https://gitlab.com/kotdes/"><PhGitlabLogo :size="24" weight="fill" /></a>
       <a alt="Roblox Group" href="https://www.roblox.com/groups/10737922/Kotera#!/about"><PhUsersThree :size="24" weight="fill" /></a>
     </div>
   </footer>

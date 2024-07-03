@@ -29,7 +29,7 @@ const cards = ref([
     </div>
     <div style="display: inline-grid; justify-items: center;">
       <a class="inline-button" style="margin-top: 4rem" href="https://koterahq.larksuite.com/docx/doxuspyRDXvSkDpWS0IcW7OMH5b"><ph-arrow-square-out :size="48" />Get started</a>
-      <a class="inline-button smaller" style="margin-top: 1rem" href="https://github.com/koterahq/koute.git"><ph-git-merge :size="24" />Git repository</a>
+      <a class="inline-button smaller" style="margin-top: 1rem" href="https://github.com/kotdes/koute.git"><ph-git-merge :size="24" />Git repository</a>
     </div>
   </main>
 </template>
